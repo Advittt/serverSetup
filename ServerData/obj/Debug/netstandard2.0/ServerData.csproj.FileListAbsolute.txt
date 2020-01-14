@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\ServerData\bin\Debug\netstandard2.0\ServerData.deps.json
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\ServerData\bin\Debug\netstandard2.0\ServerData.dll
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\ServerData\bin\Debug\netstandard2.0\ServerData.pdb
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\ServerData\obj\Debug\netstandard2.0\ServerData.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\ServerData\obj\Debug\netstandard2.0\ServerData.AssemblyInfo.cs
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\ServerData\obj\Debug\netstandard2.0\ServerData.dll
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\ServerData\obj\Debug\netstandard2.0\ServerData.pdb
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\ServerData\obj\Debug\netstandard2.0\ServerData.csprojAssemblyReference.cache

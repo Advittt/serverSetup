@@ -1,0 +1,9 @@
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\Client\bin\Debug\Client.exe.config
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\Client\bin\Debug\Client.exe
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\Client\bin\Debug\Client.pdb
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\Client\bin\Debug\ServerData.dll
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\Client\bin\Debug\ServerData.pdb
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\Client\obj\Debug\Client.exe
+C:\Users\Owner\Documents\pong\serverSetup\trial server 2\Client\obj\Debug\Client.pdb
